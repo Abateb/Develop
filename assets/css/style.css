@@ -42,8 +42,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
     font-weight: lighter;
-    font-size: 20px;
-    line-height: 1.5;
 }
 
 a {
@@ -107,7 +105,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
